@@ -22,11 +22,3 @@
      setTimeout(send,5000 )
      xmpp.send("omar@localhost",`hi ${Date.now()}`)
  }
-
-
- git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:Omar-Sa6ry/XMPP.git
-git push -u origin main
